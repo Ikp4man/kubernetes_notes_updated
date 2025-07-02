@@ -1,4 +1,4 @@
-# Landmark Technologies  = Kubernetes Deployment
+# Ktech Academy  = Kubernetes Deployment
 
 ## Topics
 1. Create Deployment
