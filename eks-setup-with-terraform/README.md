@@ -7,7 +7,7 @@
 # Terraform Installation And Setup In AWS EC2 Linux Instances
 #  Using Terraform to provision a fully managed Amazon EKS Cluster
 
-##### Prerequisite
+##### Prerequisite for Terraform
 + AWS Acccount.
 + Create an ubuntu EC2 Instnace.
 + Create IAM Role With Required Policies.
