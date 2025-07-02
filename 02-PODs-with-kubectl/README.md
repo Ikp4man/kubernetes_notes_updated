@@ -1,4 +1,4 @@
-# Landmark Technologies  == Kubernetes  - PODs
+# Ktech Academy  == Kubernetes  - PODs
 
 ## Step-01: PODs Introduction
 - What is a POD ?
